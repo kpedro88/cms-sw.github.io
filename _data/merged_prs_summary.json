@@ -24817,6 +24817,12 @@
                         "passed": true, 
                         "file": "/data/sdt/buildlogs/slc6_amd64_gcc630/www/tue/9.0-tue-23/CMSSW_9_0_X_2017-04-11-2300/addOnTests.log", 
                         "details": {}
+                    }, 
+                    {
+                        "arch": "slc7_amd64_gcc630", 
+                        "passed": true, 
+                        "file": "/data/sdt/buildlogs/slc7_amd64_gcc630/www/tue/9.0-tue-23/CMSSW_9_0_X_2017-04-11-2300/addOnTests.log", 
+                        "details": {}
                     }
                 ], 
                 "comp_baseline_state": "ok", 
@@ -24847,7 +24853,7 @@
                     }
                 ], 
                 "compared_tags": "CMSSW_9_0_X_2017-04-09-0000-->CMSSW_9_0_X_2017-04-11-2300", 
-                "valgrind": "inprogress", 
+                "valgrind": "found", 
                 "material_budget": "inprogress", 
                 "dqm_tests": "found", 
                 "relvals": [
@@ -24913,7 +24919,7 @@
                 ], 
                 "igprof": "inprogress", 
                 "isIB": true, 
-                "comp_baseline": "inprogress", 
+                "comp_baseline": "https://cmssdt.cern.ch/SDT/jenkins-artifacts/ib-baseline-tests/CMSSW_9_0_X_2017-04-11-2300/slc6_amd64_gcc530/-GenuineIntel/matrix-results", 
                 "inProgress": false, 
                 "release_name": "CMSSW_9_0_X_2017-04-11-2300", 
                 "tests_archs": [
