@@ -4037,7 +4037,7 @@
                     "passed": false, 
                     "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/tue/9.1-tue-14/CMSSW_9_1_X_2017-04-11-1400/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 1539, 
+                        "num_passed": 1700, 
                         "num_failed": 3
                     }
                 }
@@ -4202,6 +4202,15 @@
                         "compError": 1, 
                         "ignoreWarning": 1352
                     }
+                }, 
+                {
+                    "arch": "slc7_amd64_gcc630", 
+                    "passed": "warning", 
+                    "file": "/data/sdt/buildlogs/slc7_amd64_gcc630/www/tue/9.1-tue-23/CMSSW_9_1_X_2017-04-11-2300/new/logAnalysis.pkl", 
+                    "details": {
+                        "compWarning": 47, 
+                        "ignoreWarning": 278
+                    }
                 }
             ], 
             "compared_tags": "CMSSW_9_1_X_2017-04-11-1400-->CMSSW_9_1_X_2017-04-11-2300", 
@@ -4236,6 +4245,12 @@
                     "passed": "unknown", 
                     "file": "['/data/sdt/buildlogs/slc7_aarch64_gcc700/www/tue/9.1-tue-23/CMSSW_9_1_X_2017-04-11-2300/new/logAnalysis.pkl']", 
                     "details": {}
+                }, 
+                {
+                    "arch": "slc7_amd64_gcc630", 
+                    "passed": "unknown", 
+                    "file": "['/data/sdt/buildlogs/slc7_amd64_gcc630/www/tue/9.1-tue-23/CMSSW_9_1_X_2017-04-11-2300/new/logAnalysis.pkl']", 
+                    "details": {}
                 }
             ], 
             "igprof": "found", 
@@ -4244,6 +4259,7 @@
             "inProgress": false, 
             "release_name": "CMSSW_9_1_X_2017-04-11-2300", 
             "tests_archs": [
+                "slc7_amd64_gcc630", 
                 "slc7_aarch64_gcc700", 
                 "slc6_amd64_gcc630", 
                 "slc6_amd64_gcc530", 
