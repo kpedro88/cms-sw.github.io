@@ -105,7 +105,7 @@
 201704060254.17 data/relvals/slc7_amd64_gcc530/2017-04-05-1100/CMSSW_9_1_X.json
 201704081423.37 data/relvals/slc7_amd64_gcc530/2017-04-07-2300/CMSSW_9_1_X.json
 201704120658.27 data/relvals/slc7_amd64_gcc530/2017-04-11-2300/CMSSW_9_0_X.json
-201704121334.36 data/relvals/slc7_amd64_gcc530/2017-04-11-2300/CMSSW_9_1_X.json
+201704121346.44 data/relvals/slc7_amd64_gcc530/2017-04-11-2300/CMSSW_9_1_X.json
 201704051958.02 data/relvals/slc7_amd64_gcc530/2017-04-04-2300/CMSSW_9_1_X.json
 201704120438.34 data/relvals/slc7_amd64_gcc530/2017-04-11-2300/CMSSW_8_0_X.json
 201704091954.14 data/relvals/slc7_amd64_gcc530/2017-04-09-1100/CMSSW_9_1_X.json
