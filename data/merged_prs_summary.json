@@ -8345,7 +8345,7 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc7_amd64_gcc530/www/tue/8.0-tue-23/CMSSW_8_0_X_2017-04-11-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 983, 
+                            "num_passed": 1034, 
                             "num_failed": 68
                         }
                     }
@@ -24906,8 +24906,8 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc7_amd64_gcc530/www/tue/9.0-tue-23/CMSSW_9_0_X_2017-04-11-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 982, 
-                            "num_failed": 2
+                            "num_passed": 1073, 
+                            "num_failed": 3
                         }
                     }, 
                     {
@@ -24916,7 +24916,7 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc7_amd64_gcc630/www/tue/9.0-tue-23/CMSSW_9_0_X_2017-04-11-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 1349, 
+                            "num_passed": 1441, 
                             "num_failed": 14
                         }
                     }
@@ -29326,22 +29326,43 @@
             {
                 "addons": [], 
                 "comp_baseline_state": "errors", 
-                "builds": [], 
+                "builds": [
+                    {
+                        "arch": "slc6_amd64_gcc530", 
+                        "passed": "warning", 
+                        "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/tue/9.1.ROOT6-tue-23/CMSSW_9_1_ROOT6_X_2017-04-11-2300/new/logAnalysis.pkl", 
+                        "details": {
+                            "compWarning": 89, 
+                            "ignoreWarning": 26
+                        }
+                    }
+                ], 
                 "valgrind": "not-found", 
                 "comp_baseline": "not-found", 
-                "compared_tags": "CMSSW_9_1_ROOT6_X_2017-04-10-2300-->CMSSW_9_1_ROOT6_X", 
+                "compared_tags": "CMSSW_9_1_ROOT6_X_2017-04-10-2300-->CMSSW_9_1_ROOT6_X_2017-04-11-2300", 
                 "dqm_tests": "inprogress", 
-                "utests": [], 
-                "cmsdistTags": {}, 
+                "utests": [
+                    {
+                        "arch": "slc6_amd64_gcc530", 
+                        "passed": "unknown", 
+                        "file": "['/data/sdt/buildlogs/slc6_amd64_gcc530/www/tue/9.1.ROOT6-tue-23/CMSSW_9_1_ROOT6_X_2017-04-11-2300/new/logAnalysis.pkl']", 
+                        "details": {}
+                    }
+                ], 
+                "cmsdistTags": {
+                    "slc6_amd64_gcc530": "IB/CMSSW_9_1_ROOT6_X_2017-04-11-2300/slc6_amd64_gcc530"
+                }, 
                 "igprof": "not-found", 
                 "relvals": [], 
                 "static_checks": "not-found", 
-                "isIB": false, 
+                "isIB": true, 
                 "hlt_tests": "not-found", 
                 "material_budget": "not-found", 
                 "inProgress": false, 
-                "release_name": "CMSSW_9_1_ROOT6_X", 
-                "tests_archs": [], 
+                "release_name": "CMSSW_9_1_ROOT6_X_2017-04-11-2300", 
+                "tests_archs": [
+                    "slc6_amd64_gcc530"
+                ], 
                 "RVExceptions": null, 
                 "merged_prs": [
                     {
@@ -29498,6 +29519,29 @@
                         "author_login": "fioriNTU"
                     }
                 ], 
+                "fwlite": []
+            }, 
+            {
+                "addons": [], 
+                "comp_baseline_state": "errors", 
+                "builds": [], 
+                "valgrind": "not-found", 
+                "comp_baseline": "not-found", 
+                "compared_tags": "CMSSW_9_1_ROOT6_X_2017-04-11-2300-->CMSSW_9_1_ROOT6_X", 
+                "dqm_tests": "inprogress", 
+                "utests": [], 
+                "cmsdistTags": {}, 
+                "igprof": "not-found", 
+                "relvals": [], 
+                "static_checks": "not-found", 
+                "isIB": false, 
+                "hlt_tests": "not-found", 
+                "material_budget": "not-found", 
+                "inProgress": false, 
+                "release_name": "CMSSW_9_1_ROOT6_X", 
+                "tests_archs": [], 
+                "RVExceptions": null, 
+                "merged_prs": [], 
                 "fwlite": []
             }
         ]
