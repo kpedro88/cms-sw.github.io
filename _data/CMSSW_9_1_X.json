@@ -4463,12 +4463,22 @@
             "relvals": [
                 {
                     "done": false, 
+                    "arch": "slc7_aarch64_gcc530", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc530/www/wed/9.1-wed-11/CMSSW_9_1_X_2017-04-12-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 23, 
+                        "num_failed": 16
+                    }
+                }, 
+                {
+                    "done": false, 
                     "arch": "slc7_aarch64_gcc700", 
                     "passed": false, 
                     "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/wed/9.1-wed-11/CMSSW_9_1_X_2017-04-12-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 198, 
-                        "num_failed": 275
+                        "num_passed": 264, 
+                        "num_failed": 395
                     }
                 }
             ], 
