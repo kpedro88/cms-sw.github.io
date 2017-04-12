@@ -1,0 +1,49 @@
+[
+    {
+        "exitcode": 62720,
+        "id": "1303.0",
+        "name": "ProdQCD_Pt_3000_3500_13+ProdQCD_Pt_3000_3500_13+DIGIUP15PROD1+RECOPRODUP15",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "FAILED",
+                "warnings": 0
+            },
+            {
+                "errors": -1,
+                "status": "NOTRUN",
+                "warnings": -1
+            },
+            {
+                "errors": -1,
+                "status": "NOTRUN",
+                "warnings": -1
+            }
+        ]
+    },
+    {
+        "exitcode": 62720,
+        "id": "4.57",
+        "name": "ZElSkim2012B+ZElSkim2012B+HLTDSKIM+RECODR1reHLT+HARVESTDR1reHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 6
+            },
+            {
+                "errors": 0,
+                "status": "FAILED",
+                "warnings": 0
+            },
+            {
+                "status": "NOTRUN"
+            }
+        ]
+    }
+]
