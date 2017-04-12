@@ -1798,10 +1798,73 @@
         {
             "addons": [], 
             "comp_baseline_state": "errors", 
+            "builds": [
+                {
+                    "arch": "slc6_amd64_gcc630", 
+                    "passed": "warning", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc630/www/wed/9.1.DEVEL-wed-11/CMSSW_9_1_DEVEL_X_2017-04-12-1100/new/logAnalysis.pkl", 
+                    "details": {
+                        "compWarning": 47, 
+                        "ignoreWarning": 278
+                    }
+                }
+            ], 
+            "valgrind": "not-found", 
+            "comp_baseline": "not-found", 
+            "compared_tags": "CMSSW_9_1_DEVEL_X_2017-04-11-2300-->CMSSW_9_1_DEVEL_X_2017-04-12-1100", 
+            "dqm_tests": "inprogress", 
+            "utests": [
+                {
+                    "arch": "slc6_amd64_gcc630", 
+                    "passed": "unknown", 
+                    "file": "['/data/sdt/buildlogs/slc6_amd64_gcc630/www/wed/9.1.DEVEL-wed-11/CMSSW_9_1_DEVEL_X_2017-04-12-1100/new/logAnalysis.pkl']", 
+                    "details": {}
+                }
+            ], 
+            "cmsdistTags": {
+                "slc6_amd64_gcc630": "IB/CMSSW_9_1_DEVEL_X_2017-04-12-1100/slc6_amd64_gcc630"
+            }, 
+            "igprof": "not-found", 
+            "relvals": [], 
+            "static_checks": "not-found", 
+            "isIB": true, 
+            "hlt_tests": "not-found", 
+            "material_budget": "not-found", 
+            "inProgress": false, 
+            "release_name": "CMSSW_9_1_DEVEL_X_2017-04-12-1100", 
+            "tests_archs": [
+                "slc6_amd64_gcc630"
+            ], 
+            "RVExceptions": null, 
+            "merged_prs": [
+                {
+                    "hash": "c9d2b39a7abb6a4a554ff13ade1c9167a60c7d7b", 
+                    "title": "Fixed gcc 7 warnings in FWCore", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/18319", 
+                    "number": "18319", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Dr15Jones"
+                }, 
+                {
+                    "hash": "cf137c341ed7133ed4dbac8b0713fb83e4e99f49", 
+                    "title": "Fix residuals cosmics91X", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/18278", 
+                    "number": "18278", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "fioriNTU"
+                }
+            ], 
+            "fwlite": []
+        }, 
+        {
+            "addons": [], 
+            "comp_baseline_state": "errors", 
             "builds": [], 
             "valgrind": "not-found", 
             "comp_baseline": "not-found", 
-            "compared_tags": "CMSSW_9_1_DEVEL_X_2017-04-11-2300-->CMSSW_9_1_DEVEL_X", 
+            "compared_tags": "CMSSW_9_1_DEVEL_X_2017-04-12-1100-->CMSSW_9_1_DEVEL_X", 
             "dqm_tests": "inprogress", 
             "utests": [], 
             "cmsdistTags": {}, 
@@ -1817,24 +1880,6 @@
             "RVExceptions": null, 
             "merged_prs": [
                 {
-                    "hash": "1034fd7f936ee67e3d720a2e312b301ce832d067", 
-                    "title": "add ignoreVertices parameter ", 
-                    "url": "https://github.com/cms-sw/cmssw/pull/18041", 
-                    "number": "18041", 
-                    "is_merge_commit": false, 
-                    "from_merge_commit": false, 
-                    "author_login": "mtosi"
-                }, 
-                {
-                    "hash": "c9d2b39a7abb6a4a554ff13ade1c9167a60c7d7b", 
-                    "title": "Fixed gcc 7 warnings in FWCore", 
-                    "url": "https://github.com/cms-sw/cmssw/pull/18319", 
-                    "number": "18319", 
-                    "is_merge_commit": false, 
-                    "from_merge_commit": false, 
-                    "author_login": "Dr15Jones"
-                }, 
-                {
                     "hash": "f2e78e03686840ac44f553aad7a7be0884f45804", 
                     "title": "Geant4 PhysicsList without particle iterator", 
                     "url": "https://github.com/cms-sw/cmssw/pull/18268", 
@@ -1844,6 +1889,15 @@
                     "author_login": "civanch"
                 }, 
                 {
+                    "hash": "1034fd7f936ee67e3d720a2e312b301ce832d067", 
+                    "title": "add ignoreVertices parameter ", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/18041", 
+                    "number": "18041", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "mtosi"
+                }, 
+                {
                     "hash": "83f26b90b2d8f94769d7894c2e7e3002ede0a1df", 
                     "title": "Ecalpedeestals pcl 9 1 x", 
                     "url": "https://github.com/cms-sw/cmssw/pull/18241", 
@@ -1851,15 +1905,6 @@
                     "is_merge_commit": false, 
                     "from_merge_commit": false, 
                     "author_login": "argiro"
-                }, 
-                {
-                    "hash": "cf137c341ed7133ed4dbac8b0713fb83e4e99f49", 
-                    "title": "Fix residuals cosmics91X", 
-                    "url": "https://github.com/cms-sw/cmssw/pull/18278", 
-                    "number": "18278", 
-                    "is_merge_commit": false, 
-                    "from_merge_commit": false, 
-                    "author_login": "fioriNTU"
                 }, 
                 {
                     "hash": "7b51be1b7330d81c79b71443fbdc9f1b3400b15e", 

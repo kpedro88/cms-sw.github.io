@@ -5484,21 +5484,21 @@
                 {
                     "done": false, 
                     "arch": "slc7_amd64_gcc530", 
-                    "passed": true, 
+                    "passed": false, 
                     "file": "/data/sdt/buildlogs/slc7_amd64_gcc530/www/wed/9.0-wed-11/CMSSW_9_0_X_2017-04-12-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 403, 
-                        "num_failed": 0
+                        "num_passed": 516, 
+                        "num_failed": 1
                     }
                 }, 
                 {
                     "done": false, 
                     "arch": "slc7_amd64_gcc630", 
-                    "passed": true, 
+                    "passed": false, 
                     "file": "/data/sdt/buildlogs/slc7_amd64_gcc630/www/wed/9.0-wed-11/CMSSW_9_0_X_2017-04-12-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 401, 
-                        "num_failed": 0
+                        "num_passed": 493, 
+                        "num_failed": 1
                     }
                 }
             ], 
