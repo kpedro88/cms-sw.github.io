@@ -27005,6 +27005,13 @@
     "title": "Some cleanup for SIM", 
     "user_ref": "sim_cleanups"
   }, 
+  "17672": {
+    "author": "archiron", 
+    "branch": "CMSSW_9_0_X", 
+    "hash": "19f13d2644961052dc639f65cda6011eafb83e31", 
+    "title": "nbOfDaughters_electrons_correction_Histos_90X_V2", 
+    "user_ref": "nbOfDaughters_electrons_correction_Histos_90X_V2"
+  }, 
   "17678": {
     "author": "davidlt", 
     "branch": "CMSSW_9_0_X", 
@@ -28426,6 +28433,13 @@
     "title": "Made all BuildFile.xml files easier to parse.", 
     "user_ref": "makeBuildFilesXML"
   }, 
+  "18011": {
+    "author": "smoortga", 
+    "branch": "CMSSW_9_0_X", 
+    "hash": "101926b9609e04fd69ca68674a0fed0bde1e5bd0", 
+    "title": "BD hadron track monitoring in standard validation sequence", 
+    "user_ref": "BDHadronTrackMonitoringInStandardValidationSequence"
+  }, 
   "18012": {
     "author": "bapavlov", 
     "branch": "master", 
@@ -28502,6 +28516,13 @@
     "hash": "24a6af37f276bb27e21fa291e6451b76c995cc25", 
     "title": "Fix the handling of ALCARECO output for steps which don't require the creation of a combined stream (i.e. all cases but the Tier0 one)", 
     "user_ref": "alcaoutputfix_91X"
+  }, 
+  "18035": {
+    "author": "leggat", 
+    "branch": "CMSSW_9_0_X", 
+    "hash": "be362771675d2fc110107632682b304be3ad61a8", 
+    "title": "Pixel Phase 1 summary maps [90X]", 
+    "user_ref": "phase1PixelSummaries90X"
   }, 
   "18036": {
     "author": "cms-sw", 
@@ -29049,6 +29070,13 @@
     "title": "fix hep17 and hf compression luts", 
     "user_ref": "fix-hep17andhf-compression"
   }, 
+  "18176": {
+    "author": "akhukhun", 
+    "branch": "CMSSW_9_0_X", 
+    "hash": "70b7b18addefc68009c0beb47e88671b4ed49b38", 
+    "title": "fix hep17 and hf compression luts", 
+    "user_ref": "fix-hep17andhf-compression-90X"
+  }, 
   "18179": {
     "author": "davidlt", 
     "branch": "master", 
@@ -29077,6 +29105,13 @@
     "title": "remove unnecessary cout from RunInfoProxy.cc", 
     "user_ref": "gf_remove_comment_RunInfoProxy_from-CMSSW_9_1_X_2017-04-03-1100"
   }, 
+  "18185": {
+    "author": "franzoni", 
+    "branch": "CMSSW_9_0_X", 
+    "hash": "2701abbd3b3bd32098dab837f01dd5bf20d391ea", 
+    "title": "remove unnecessary cout from RunInfoProxy.cc [backport]", 
+    "user_ref": "gf_remove_comment_RunInfoProxy_from-CMSSW_9_0_X_2017-04-02-0100"
+  }, 
   "18188": {
     "author": "lpernie", 
     "branch": "master", 
@@ -29097,6 +29132,13 @@
     "hash": "cff8f38c0028fdf563f0f9bbc636685cb7edfdbc", 
     "title": "Add virtual dtors for MakeProvenanceReader & ExpressionElementFinderBase", 
     "user_ref": "add-missing-virt-dtors"
+  }, 
+  "18191": {
+    "author": "mtosi", 
+    "branch": "CMSSW_9_0_X", 
+    "hash": "1dfbc737e9dcbe3e3d57aae6703c89b9d13a8a24", 
+    "title": "add PV monitoring @HLT", 
+    "user_ref": "pvMonitoring@HLT_90x"
   }, 
   "18195": {
     "author": "kpedro88", 
@@ -29356,6 +29398,13 @@
     "hash": "b928d2c021027e147ce347d003bef06101059c2f", 
     "title": "Fix root Draw option for Strip monitoring tool", 
     "user_ref": "fixdqmhist"
+  }, 
+  "18282": {
+    "author": "boudoul", 
+    "branch": "CMSSW_9_0_X", 
+    "hash": "0905af78ad362369d1130ccbc1b9e187f96bcb3f", 
+    "title": "fix root Draw option for Strip monitoring tool [90X]", 
+    "user_ref": "fixdqmhist_90X"
   }, 
   "18286": {
     "author": "folguera", 

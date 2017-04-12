@@ -5298,7 +5298,7 @@
             "dqm_tests": "found", 
             "relvals": [
                 {
-                    "done": false, 
+                    "done": true, 
                     "arch": "slc6_amd64_gcc530", 
                     "passed": false, 
                     "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/tue/9.0-tue-23/CMSSW_9_0_X_2017-04-11-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
@@ -5436,7 +5436,71 @@
             "release_name": "CMSSW_9_0_X", 
             "tests_archs": [], 
             "RVExceptions": null, 
-            "merged_prs": [], 
+            "merged_prs": [
+                {
+                    "hash": "70b7b18addefc68009c0beb47e88671b4ed49b38", 
+                    "title": "fix hep17 and hf compression luts", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/18176", 
+                    "number": "18176", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "akhukhun"
+                }, 
+                {
+                    "hash": "2701abbd3b3bd32098dab837f01dd5bf20d391ea", 
+                    "title": "remove unnecessary cout from RunInfoProxy.cc [backport]", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/18185", 
+                    "number": "18185", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "franzoni"
+                }, 
+                {
+                    "hash": "1dfbc737e9dcbe3e3d57aae6703c89b9d13a8a24", 
+                    "title": "add PV monitoring @HLT", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/18191", 
+                    "number": "18191", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "mtosi"
+                }, 
+                {
+                    "hash": "be362771675d2fc110107632682b304be3ad61a8", 
+                    "title": "Pixel Phase 1 summary maps [90X]", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/18035", 
+                    "number": "18035", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "leggat"
+                }, 
+                {
+                    "hash": "101926b9609e04fd69ca68674a0fed0bde1e5bd0", 
+                    "title": "BD hadron track monitoring in standard validation sequence", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/18011", 
+                    "number": "18011", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "smoortga"
+                }, 
+                {
+                    "hash": "0905af78ad362369d1130ccbc1b9e187f96bcb3f", 
+                    "title": "fix root Draw option for Strip monitoring tool [90X]", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/18282", 
+                    "number": "18282", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "boudoul"
+                }, 
+                {
+                    "hash": "19f13d2644961052dc639f65cda6011eafb83e31", 
+                    "title": "nbOfDaughters_electrons_correction_Histos_90X_V2", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/17672", 
+                    "number": "17672", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "archiron"
+                }
+            ], 
             "hlt_tests": "inprogress"
         }
     ]
