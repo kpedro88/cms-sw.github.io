@@ -354,6 +354,25 @@
     },
     {
         "exitcode": 0,
+        "id": "4.28",
+        "name": "HighMet2011A+HighMet2011A+HLTDSKIM+RECODR1reHLT+HARVESTDR1reHLT",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "4.29",
         "name": "RunMinBias2011B+RunMinBias2011B+HLTD+RECODR1reHLT+HARVESTDR1reHLT+SKIMDreHLT",
         "steps": [
@@ -6527,6 +6546,25 @@
     },
     {
         "exitcode": 0,
+        "id": "281.0",
+        "name": "EPOS_PPb_8160GeV_MinimumBias+EPOS_PPb_8160GeV_MinimumBias+DIGIUP15_PPb+RECOUP15_PPb+HARVESTUP15_PPb",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "300.0",
         "name": "Pyquen_GammaJet_pt20_2760GeV+Pyquen_GammaJet_pt20_2760GeV+DIGIHIMIX+RECOHIMIX+HARVESTHI",
         "steps": [
@@ -10075,6 +10113,25 @@
     },
     {
         "exitcode": 0,
+        "id": "20034.0",
+        "name": "TTbar_14TeV+TTbar_14TeV_TuneCUETP8M1_2023D7_GenSimHLBeamSpotFull14+DigiFullTrigger_2023D7+RecoFullGlobal_2023D7+HARVESTFullGlobal_2023D7",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "20046.0",
         "name": "ZEE_14+ZEE_14TeV_TuneCUETP8M1_2023D7_GenSimHLBeamSpotFull14+DigiFullTrigger_2023D7+RecoFullGlobal_2023D7+HARVESTFullGlobal_2023D7",
         "steps": [
@@ -11245,6 +11302,25 @@
                 "errors": 2,
                 "status": "PASSED",
                 "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "50204.0",
+        "name": "QQH1352T_13+QQH1352T_13INPUT+DIGIUP15_PU50+RECOUP15_PU50+HARVESTUP15_PU50",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
             }
         ]
     },
