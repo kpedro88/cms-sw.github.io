@@ -1,0 +1,56 @@
+[
+    {
+        "exitcode": 0,
+        "id": "136.751",
+        "name": "RunMET2016D+RunMET2016D+HLTDR2_2016+RECODR2_2016reHLT_skimMET_HIPM+HARVESTDR2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 9215
+            },
+            {
+                "errors": 60,
+                "status": "PASSED",
+                "warnings": 14042
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "136.765",
+        "name": "RunSingleMu2016E+RunSingleMu2016E+HLTDR2_2016+RECODR2_2016reHLT_HIPM+HARVESTDR2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 9808
+            },
+            {
+                "errors": 119,
+                "status": "PASSED",
+                "warnings": 16069
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    }
+]
