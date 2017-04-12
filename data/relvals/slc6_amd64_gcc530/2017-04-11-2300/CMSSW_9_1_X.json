@@ -3571,6 +3571,33 @@
     },
     {
         "exitcode": 0,
+        "id": "134.802",
+        "name": "RunDoubleEG2015C+RunDoubleEG2015C+HLTDR2_25ns+RECODR2_25nsreHLT_HIPM+HARVESTDR2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 298
+            },
+            {
+                "errors": 996,
+                "status": "PASSED",
+                "warnings": 8225
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "134.803",
         "name": "RunDoubleMuon2015C+RunDoubleMuon2015C+HLTDR2_25ns+RECODR2_25nsreHLT_HIPM+HARVESTDR2",
         "steps": [
@@ -4057,6 +4084,33 @@
     },
     {
         "exitcode": 0,
+        "id": "134.908",
+        "name": "RunSingleMuPrpt2015D+RunSingleMuPrpt2015D+HLTDR2_25ns+RECODR2_25nsreHLT_HIPM+HARVESTDR2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 273
+            },
+            {
+                "errors": 857,
+                "status": "PASSED",
+                "warnings": 6034
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 11
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "134.909",
         "name": "RunSingleEl2015D+RunSingleEl2015D+HLTDR2_25ns+RECODR2_25nsreHLT_HIPM+HARVESTDR2",
         "steps": [
@@ -4209,6 +4263,33 @@
                 "errors": 848,
                 "status": "PASSED",
                 "warnings": 4484
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "134.99603",
+        "name": "RunSingleMu2015HLHS+RunSingleMu2015HLHS+HLTDR2_25ns+RECODR2_25nsreHLT_HIPM+HARVESTDR2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 209
+            },
+            {
+                "errors": 895,
+                "status": "PASSED",
+                "warnings": 6733
             },
             {
                 "errors": 1,
@@ -6463,6 +6544,33 @@
                 "errors": 30,
                 "status": "PASSED",
                 "warnings": 126
+            },
+            {
+                "errors": 10,
+                "status": "PASSED",
+                "warnings": 10
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "301.0",
+        "name": "Pyquen_DiJet_pt80to120_2760GeV+Pyquen_DiJet_pt80to120_2760GeV+DIGIHIMIX+RECOHIMIX+HARVESTHI",
+        "steps": [
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 99
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 46
+            },
+            {
+                "errors": 30,
+                "status": "PASSED",
+                "warnings": 134
             },
             {
                 "errors": 10,
@@ -9967,6 +10075,33 @@
     },
     {
         "exitcode": 0,
+        "id": "20046.0",
+        "name": "ZEE_14+ZEE_14TeV_TuneCUETP8M1_2023D7_GenSimHLBeamSpotFull14+DigiFullTrigger_2023D7+RecoFullGlobal_2023D7+HARVESTFullGlobal_2023D7",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 43
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 41
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 751
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "20053.0",
         "name": "QCD_Pt_600_800_14+QCD_Pt_600_800_14TeV_TuneCUETP8M1_2023D7_GenSimHLBeamSpotFull14+DigiFullTrigger_2023D7+RecoFullGlobal_2023D7+HARVESTFullGlobal_2023D7",
         "steps": [
@@ -10038,6 +10173,33 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 737
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "20446.0",
+        "name": "ZEE_14+ZEE_14TeV_TuneCUETP8M1_2023D10_GenSimHLBeamSpotFull14+DigiFullTrigger_2023D10+RecoFullGlobal_2023D10+HARVESTFullGlobal_2023D10",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 40
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 53
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 510
             },
             {
                 "errors": 1,
@@ -10335,6 +10497,33 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 620
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "23634.0",
+        "name": "TTbar_14TeV+TTbar_14TeV_TuneCUETP8M1_2023D9_GenSimHLBeamSpotFull14+DigiFullTrigger_2023D9+RecoFullGlobal_2023D9+HARVESTFullGlobal_2023D9",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 59
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 59
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 768
             },
             {
                 "errors": 1,
