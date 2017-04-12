@@ -1124,6 +1124,15 @@
                     "is_merge_commit": false, 
                     "from_merge_commit": false, 
                     "author_login": "Dr15Jones"
+                }, 
+                {
+                    "hash": "cf137c341ed7133ed4dbac8b0713fb83e4e99f49", 
+                    "title": "Fix residuals cosmics91X", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/18278", 
+                    "number": "18278", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "fioriNTU"
                 }
             ], 
             "fwlite": []

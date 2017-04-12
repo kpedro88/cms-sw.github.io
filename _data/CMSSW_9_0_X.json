@@ -5492,6 +5492,15 @@
                     "author_login": "boudoul"
                 }, 
                 {
+                    "hash": "72b95b78624e6d155abd6b5a5dff09dd7b620fc8", 
+                    "title": "Fix residuals cosmics901", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/18277", 
+                    "number": "18277", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "fioriNTU"
+                }, 
+                {
                     "hash": "19f13d2644961052dc639f65cda6011eafb83e31", 
                     "title": "nbOfDaughters_electrons_correction_Histos_90X_V2", 
                     "url": "https://github.com/cms-sw/cmssw/pull/17672", 

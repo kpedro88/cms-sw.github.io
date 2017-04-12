@@ -29385,6 +29385,20 @@
     "title": "Add missing virtual dtors #2", 
     "user_ref": "virt-dtors-2"
   }, 
+  "18277": {
+    "author": "fioriNTU", 
+    "branch": "CMSSW_9_0_X", 
+    "hash": "72b95b78624e6d155abd6b5a5dff09dd7b620fc8", 
+    "title": "Fix residuals cosmics901", 
+    "user_ref": "FixResidualsCosmics901"
+  }, 
+  "18278": {
+    "author": "fioriNTU", 
+    "branch": "master", 
+    "hash": "cf137c341ed7133ed4dbac8b0713fb83e4e99f49", 
+    "title": "Fix residuals cosmics91X", 
+    "user_ref": "FixResidualsCosmics91X"
+  }, 
   "18280": {
     "author": "Dr15Jones", 
     "branch": "master", 
