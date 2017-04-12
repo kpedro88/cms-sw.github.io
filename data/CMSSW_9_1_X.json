@@ -4037,7 +4037,7 @@
                     "passed": false, 
                     "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/tue/9.1-tue-14/CMSSW_9_1_X_2017-04-11-1400/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 1203, 
+                        "num_passed": 1348, 
                         "num_failed": 3
                     }
                 }
@@ -4148,6 +4148,7 @@
                 }
             ], 
             "cmsdistTags": {
+                "slc6_amd64_gcc630": "IB/CMSSW_9_1_X_2017-04-11-2300/slc6_amd64_gcc630", 
                 "slc6_amd64_gcc530": "IB/CMSSW_9_1_X_2017-04-11-1400/slc6_amd64_gcc530"
             }, 
             "addons": [
@@ -4167,11 +4168,20 @@
                     "details": {
                         "ignoreWarning": 1
                     }
+                }, 
+                {
+                    "arch": "slc6_amd64_gcc630", 
+                    "passed": "warning", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc630/www/tue/9.1-tue-23/CMSSW_9_1_X_2017-04-11-2300/new/logAnalysis.pkl", 
+                    "details": {
+                        "compWarning": 47, 
+                        "ignoreWarning": 278
+                    }
                 }
             ], 
             "compared_tags": "CMSSW_9_1_X_2017-04-11-1400-->CMSSW_9_1_X_2017-04-11-2300", 
             "valgrind": "found", 
-            "material_budget": "slc6_amd64_gcc530:-1", 
+            "material_budget": "slc6_amd64_gcc530:0", 
             "dqm_tests": "inprogress", 
             "relvals": [], 
             "static_checks": "inprogress", 
@@ -4181,6 +4191,12 @@
                     "passed": "unknown", 
                     "file": "['/data/sdt/buildlogs/slc6_amd64_gcc530/www/tue/9.1-tue-23/CMSSW_9_1_X_2017-04-11-2300/new/logAnalysis.pkl']", 
                     "details": {}
+                }, 
+                {
+                    "arch": "slc6_amd64_gcc630", 
+                    "passed": "unknown", 
+                    "file": "['/data/sdt/buildlogs/slc6_amd64_gcc630/www/tue/9.1-tue-23/CMSSW_9_1_X_2017-04-11-2300/new/logAnalysis.pkl']", 
+                    "details": {}
                 }
             ], 
             "igprof": "found", 
@@ -4189,6 +4205,7 @@
             "inProgress": false, 
             "release_name": "CMSSW_9_1_X_2017-04-11-2300", 
             "tests_archs": [
+                "slc6_amd64_gcc630", 
                 "slc6_amd64_gcc530"
             ], 
             "RVExceptions": null, 
