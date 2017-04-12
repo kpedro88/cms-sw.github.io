@@ -5433,6 +5433,12 @@
             }, 
             "addons": [
                 {
+                    "arch": "slc7_amd64_gcc530", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc7_amd64_gcc530/www/wed/9.0-wed-11/CMSSW_9_0_X_2017-04-12-1100/addOnTests.log", 
+                    "details": {}
+                }, 
+                {
                     "arch": "slc7_amd64_gcc630", 
                     "passed": true, 
                     "file": "/data/sdt/buildlogs/slc7_amd64_gcc630/www/wed/9.0-wed-11/CMSSW_9_0_X_2017-04-12-1100/addOnTests.log", 
@@ -5491,7 +5497,7 @@
                     "passed": true, 
                     "file": "/data/sdt/buildlogs/slc7_amd64_gcc630/www/wed/9.0-wed-11/CMSSW_9_0_X_2017-04-12-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 214, 
+                        "num_passed": 295, 
                         "num_failed": 0
                     }
                 }
