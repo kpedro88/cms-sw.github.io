@@ -24922,15 +24922,17 @@
                         }
                     }, 
                     {
+                        "arch": "slc7_amd64_gcc630", 
+                        "passed": "passed", 
+                        "file": "/data/sdt/buildlogs/slc7_amd64_gcc630/www/tue/9.0-tue-23/CMSSW_9_0_X_2017-04-11-2300/unitTests-summary.log", 
+                        "details": {
+                            "num_fails": "0"
+                        }
+                    }, 
+                    {
                         "arch": "slc7_amd64_gcc530", 
                         "passed": "unknown", 
                         "file": "['/data/sdt/buildlogs/slc7_amd64_gcc530/www/tue/9.0-tue-23/CMSSW_9_0_X_2017-04-11-2300/new/logAnalysis.pkl']", 
-                        "details": {}
-                    }, 
-                    {
-                        "arch": "slc7_amd64_gcc630", 
-                        "passed": "unknown", 
-                        "file": "['/data/sdt/buildlogs/slc7_amd64_gcc630/www/tue/9.0-tue-23/CMSSW_9_0_X_2017-04-11-2300/new/logAnalysis.pkl']", 
                         "details": {}
                     }
                 ], 
@@ -33520,6 +33522,7 @@
                     }
                 ], 
                 "cmsdistTags": {
+                    "slc7_amd64_gcc630": "IB/CMSSW_9_1_X_2017-04-11-2300/slc7_amd64_gcc630", 
                     "slc7_aarch64_gcc700": "ERR/CMSSW_9_1_X_2017-04-11-2300/slc7_aarch64_gcc700", 
                     "slc6_amd64_gcc630": "IB/CMSSW_9_1_X_2017-04-11-2300/slc6_amd64_gcc630", 
                     "slc6_amd64_gcc530": "IB/CMSSW_9_1_X_2017-04-11-1400/slc6_amd64_gcc530", 
