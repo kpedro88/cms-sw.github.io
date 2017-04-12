@@ -2002,6 +2002,33 @@
     },
     {
         "exitcode": 0,
+        "id": "16.0",
+        "name": "SingleElectronPt1000+SingleElectronPt1000INPUT+DIGI+RECO+HARVEST",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 577
+            },
+            {
+                "errors": 600,
+                "status": "PASSED",
+                "warnings": 2336
+            },
+            {
+                "errors": 4,
+                "status": "PASSED",
+                "warnings": 12
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "17.0",
         "name": "SingleElectronPt35+SingleElectronPt35INPUT+DIGI+RECO+HARVEST",
         "steps": [
