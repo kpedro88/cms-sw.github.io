@@ -3579,7 +3579,7 @@
                     "passed": true, 
                     "file": "/data/sdt/buildlogs/slc7_amd64_gcc530/www/tue/8.0-tue-23/CMSSW_8_0_X_2017-04-11-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 52, 
+                        "num_passed": 123, 
                         "num_failed": 0
                     }
                 }

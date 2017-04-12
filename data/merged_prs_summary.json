@@ -8333,7 +8333,7 @@
                         "passed": true, 
                         "file": "/data/sdt/buildlogs/slc7_amd64_gcc530/www/tue/8.0-tue-23/CMSSW_8_0_X_2017-04-11-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 52, 
+                            "num_passed": 123, 
                             "num_failed": 0
                         }
                     }
@@ -24878,7 +24878,7 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc6_amd64_gcc630/www/tue/9.0-tue-23/CMSSW_9_0_X_2017-04-11-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 716, 
+                            "num_passed": 819, 
                             "num_failed": 8
                         }
                     }, 
@@ -24888,8 +24888,8 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc7_amd64_gcc530/www/tue/9.0-tue-23/CMSSW_9_0_X_2017-04-11-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 440, 
-                            "num_failed": 1
+                            "num_passed": 552, 
+                            "num_failed": 2
                         }
                     }, 
                     {
@@ -24932,7 +24932,7 @@
                         "details": {}
                     }
                 ], 
-                "igprof": "inprogress", 
+                "igprof": "found", 
                 "isIB": true, 
                 "comp_baseline": "https://cmssdt.cern.ch/SDT/jenkins-artifacts/ib-baseline-tests/CMSSW_9_0_X_2017-04-11-2300/slc6_amd64_gcc530/-GenuineIntel/matrix-results", 
                 "inProgress": false, 
@@ -33518,6 +33518,7 @@
                     }
                 ], 
                 "cmsdistTags": {
+                    "slc7_aarch64_gcc700": "ERR/CMSSW_9_1_X_2017-04-11-2300/slc7_aarch64_gcc700", 
                     "slc6_amd64_gcc630": "IB/CMSSW_9_1_X_2017-04-11-2300/slc6_amd64_gcc630", 
                     "slc6_amd64_gcc530": "IB/CMSSW_9_1_X_2017-04-11-1400/slc6_amd64_gcc530", 
                     "slc6_amd64_gcc700": "ERR/CMSSW_9_1_X_2017-04-11-2300/slc6_amd64_gcc700"
@@ -33559,6 +33560,17 @@
                             "compError": 1, 
                             "ignoreWarning": 1352
                         }
+                    }, 
+                    {
+                        "arch": "slc7_aarch64_gcc700", 
+                        "passed": "error", 
+                        "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/tue/9.1-tue-23/CMSSW_9_1_X_2017-04-11-2300/new/logAnalysis.pkl", 
+                        "details": {
+                            "compWarning": 10067, 
+                            "linkError": 2, 
+                            "compError": 1, 
+                            "ignoreWarning": 1352
+                        }
                     }
                 ], 
                 "compared_tags": "CMSSW_9_1_X_2017-04-11-1400-->CMSSW_9_1_X_2017-04-11-2300", 
@@ -33587,6 +33599,12 @@
                         "passed": "unknown", 
                         "file": "['/data/sdt/buildlogs/slc6_amd64_gcc700/www/tue/9.1-tue-23/CMSSW_9_1_X_2017-04-11-2300/new/logAnalysis.pkl']", 
                         "details": {}
+                    }, 
+                    {
+                        "arch": "slc7_aarch64_gcc700", 
+                        "passed": "unknown", 
+                        "file": "['/data/sdt/buildlogs/slc7_aarch64_gcc700/www/tue/9.1-tue-23/CMSSW_9_1_X_2017-04-11-2300/new/logAnalysis.pkl']", 
+                        "details": {}
                     }
                 ], 
                 "igprof": "found", 
@@ -33595,6 +33613,7 @@
                 "inProgress": false, 
                 "release_name": "CMSSW_9_1_X_2017-04-11-2300", 
                 "tests_archs": [
+                    "slc7_aarch64_gcc700", 
                     "slc6_amd64_gcc630", 
                     "slc6_amd64_gcc530", 
                     "slc6_amd64_gcc700"
