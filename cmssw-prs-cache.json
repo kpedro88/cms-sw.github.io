@@ -29287,6 +29287,13 @@
     "title": "Activate Max-Sample algorithm in EB by default for 80X legacy re-reco", 
     "user_ref": "maxsample_EB_80X_legacy_config"
   }, 
+  "18241": {
+    "author": "argiro", 
+    "branch": "master", 
+    "hash": "83f26b90b2d8f94769d7894c2e7e3002ede0a1df", 
+    "title": "Ecalpedeestals pcl 9 1 x", 
+    "user_ref": "ecalpedeestalsPCL_9_1_X"
+  }, 
   "18243": {
     "author": "cms-tau-pog", 
     "branch": "master", 
@@ -29357,6 +29364,13 @@
     "title": "Move sortByStringFunction to StringObjectFunction.h.", 
     "user_ref": "ExtractSortByStringFunction"
   }, 
+  "18268": {
+    "author": "civanch", 
+    "branch": "master", 
+    "hash": "f2e78e03686840ac44f553aad7a7be0884f45804", 
+    "title": "Geant4 PhysicsList without particle iterator", 
+    "user_ref": "geant4_physlist"
+  }, 
   "18269": {
     "author": "arunhep", 
     "branch": "master", 
@@ -29426,6 +29440,13 @@
     "hash": "731721a21b629fe7279466293c07dff273813a12", 
     "title": "Muon hlt iter l3 io porting to new seeding", 
     "user_ref": "MuonHLT_IterL3IO_PortingToNewSeeding"
+  }, 
+  "18289": {
+    "author": "ianna", 
+    "branch": "master", 
+    "hash": "7b51be1b7330d81c79b71443fbdc9f1b3400b15e", 
+    "title": "Update 2019 Extended Scenario ", 
+    "user_ref": "extended-2019-scenario-fix"
   }, 
   "18294": {
     "author": "Dr15Jones", 

@@ -1610,7 +1610,7 @@
                     "passed": false, 
                     "file": "/data/sdt/buildlogs/slc6_amd64_gcc630/www/tue/9.1.DEVEL-tue-23/CMSSW_9_1_DEVEL_X_2017-04-11-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 1613, 
+                        "num_passed": 1645, 
                         "num_failed": 11
                     }
                 }, 
@@ -1620,8 +1620,8 @@
                     "passed": false, 
                     "file": "/data/sdt/buildlogs/slc7_amd64_gcc630/www/tue/9.1.DEVEL-tue-23/CMSSW_9_1_DEVEL_X_2017-04-11-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 1219, 
-                        "num_failed": 7
+                        "num_passed": 1318, 
+                        "num_failed": 9
                     }
                 }
             ], 
@@ -1815,6 +1815,15 @@
             "RVExceptions": null, 
             "merged_prs": [
                 {
+                    "hash": "f2e78e03686840ac44f553aad7a7be0884f45804", 
+                    "title": "Geant4 PhysicsList without particle iterator", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/18268", 
+                    "number": "18268", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "civanch"
+                }, 
+                {
                     "hash": "c9d2b39a7abb6a4a554ff13ade1c9167a60c7d7b", 
                     "title": "Fixed gcc 7 warnings in FWCore", 
                     "url": "https://github.com/cms-sw/cmssw/pull/18319", 
@@ -1824,6 +1833,15 @@
                     "author_login": "Dr15Jones"
                 }, 
                 {
+                    "hash": "83f26b90b2d8f94769d7894c2e7e3002ede0a1df", 
+                    "title": "Ecalpedeestals pcl 9 1 x", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/18241", 
+                    "number": "18241", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "argiro"
+                }, 
+                {
                     "hash": "cf137c341ed7133ed4dbac8b0713fb83e4e99f49", 
                     "title": "Fix residuals cosmics91X", 
                     "url": "https://github.com/cms-sw/cmssw/pull/18278", 
@@ -1831,6 +1849,15 @@
                     "is_merge_commit": false, 
                     "from_merge_commit": false, 
                     "author_login": "fioriNTU"
+                }, 
+                {
+                    "hash": "7b51be1b7330d81c79b71443fbdc9f1b3400b15e", 
+                    "title": "Update 2019 Extended Scenario ", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/18289", 
+                    "number": "18289", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "ianna"
                 }
             ], 
             "fwlite": []
