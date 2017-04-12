@@ -1117,13 +1117,13 @@
             "RVExceptions": null, 
             "merged_prs": [
                 {
-                    "hash": "f2e78e03686840ac44f553aad7a7be0884f45804", 
-                    "title": "Geant4 PhysicsList without particle iterator", 
-                    "url": "https://github.com/cms-sw/cmssw/pull/18268", 
-                    "number": "18268", 
+                    "hash": "1034fd7f936ee67e3d720a2e312b301ce832d067", 
+                    "title": "add ignoreVertices parameter ", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/18041", 
+                    "number": "18041", 
                     "is_merge_commit": false, 
                     "from_merge_commit": false, 
-                    "author_login": "civanch"
+                    "author_login": "mtosi"
                 }, 
                 {
                     "hash": "c9d2b39a7abb6a4a554ff13ade1c9167a60c7d7b", 
@@ -1133,6 +1133,15 @@
                     "is_merge_commit": false, 
                     "from_merge_commit": false, 
                     "author_login": "Dr15Jones"
+                }, 
+                {
+                    "hash": "f2e78e03686840ac44f553aad7a7be0884f45804", 
+                    "title": "Geant4 PhysicsList without particle iterator", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/18268", 
+                    "number": "18268", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "civanch"
                 }, 
                 {
                     "hash": "83f26b90b2d8f94769d7894c2e7e3002ede0a1df", 

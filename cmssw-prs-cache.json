@@ -28538,6 +28538,13 @@
     "title": "Pixel template local reconstruction for Phase 1", 
     "user_ref": "phase1-reco-91x"
   }, 
+  "18041": {
+    "author": "mtosi", 
+    "branch": "master", 
+    "hash": "1034fd7f936ee67e3d720a2e312b301ce832d067", 
+    "title": "add ignoreVertices parameter ", 
+    "user_ref": "from-CMSSW_8_0_X_2016-04-18-2300_fixTrackMVAClassifier"
+  }, 
   "18044": {
     "author": "Dr15Jones", 
     "branch": "master", 

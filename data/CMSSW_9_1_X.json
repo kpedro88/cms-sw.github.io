@@ -4546,6 +4546,15 @@
                     "author_login": "civanch"
                 }, 
                 {
+                    "hash": "1034fd7f936ee67e3d720a2e312b301ce832d067", 
+                    "title": "add ignoreVertices parameter ", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/18041", 
+                    "number": "18041", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "mtosi"
+                }, 
+                {
                     "hash": "83f26b90b2d8f94769d7894c2e7e3002ede0a1df", 
                     "title": "Ecalpedeestals pcl 9 1 x", 
                     "url": "https://github.com/cms-sw/cmssw/pull/18241", 
