@@ -4,13 +4,13 @@
     "fileReplicas4dataset",
     "files_via_dataset"
   ],
-  "ctime": 0.045212984085100001,
+  "ctime": 0.047237157821700002,
   "data": [
     {
-      "_id": "58e9df56f4e3135846b53771",
+      "_id": "58edd4884bf01c32364084cb",
       "cache_id": [
-        "58e9df56f4e3135846b5374e",
-        "58e9df56f4e3135846b53761"
+        "58edd4874bf01c32364084b9",
+        "58edd4874bf01c32364084aa"
       ],
       "das": {
         "api": [
@@ -20,7 +20,7 @@
         "condition_keys": [
           "dataset.name"
         ],
-        "expire": 1491722370,
+        "expire": 1491981747,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -40,11 +40,11 @@
           "dbs3",
           "phedex"
         ],
-        "ts": 1491722070.9847269
+        "ts": 1491981448.1947
       },
       "das_id": [
-        "58e9df56f4e3135846b5373c",
-        "58e9df56f4e3135846b5373f"
+        "58edd4874bf01c3236408499",
+        "58edd4874bf01c3236408496"
       ],
       "file": [
         {
@@ -57,10 +57,10 @@
       "qhash": "d781c8fe392e0186287e3701c6d1fe79"
     },
     {
-      "_id": "58e9df56f4e3135846b53770",
+      "_id": "58edd4884bf01c32364084ca",
       "cache_id": [
-        "58e9df56f4e3135846b5375e",
-        "58e9df56f4e3135846b53750"
+        "58edd4874bf01c32364084ac",
+        "58edd4874bf01c32364084b6"
       ],
       "das": {
         "api": [
@@ -70,7 +70,7 @@
         "condition_keys": [
           "dataset.name"
         ],
-        "expire": 1491722370,
+        "expire": 1491981747,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -90,11 +90,11 @@
           "dbs3",
           "phedex"
         ],
-        "ts": 1491722070.9847269
+        "ts": 1491981448.1947
       },
       "das_id": [
-        "58e9df56f4e3135846b5373c",
-        "58e9df56f4e3135846b5373f"
+        "58edd4874bf01c3236408499",
+        "58edd4874bf01c3236408496"
       ],
       "file": [
         {
@@ -107,10 +107,10 @@
       "qhash": "d781c8fe392e0186287e3701c6d1fe79"
     },
     {
-      "_id": "58e9df56f4e3135846b5376f",
+      "_id": "58edd4884bf01c32364084c9",
       "cache_id": [
-        "58e9df56f4e3135846b53760",
-        "58e9df56f4e3135846b53751"
+        "58edd4874bf01c32364084b8",
+        "58edd4874bf01c32364084ad"
       ],
       "das": {
         "api": [
@@ -120,7 +120,7 @@
         "condition_keys": [
           "dataset.name"
         ],
-        "expire": 1491722370,
+        "expire": 1491981747,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -140,11 +140,11 @@
           "dbs3",
           "phedex"
         ],
-        "ts": 1491722070.9847269
+        "ts": 1491981448.1947
       },
       "das_id": [
-        "58e9df56f4e3135846b5373c",
-        "58e9df56f4e3135846b5373f"
+        "58edd4874bf01c3236408499",
+        "58edd4874bf01c3236408496"
       ],
       "file": [
         {
@@ -157,10 +157,10 @@
       "qhash": "d781c8fe392e0186287e3701c6d1fe79"
     },
     {
-      "_id": "58e9df56f4e3135846b5376e",
+      "_id": "58edd4884bf01c32364084c8",
       "cache_id": [
-        "58e9df56f4e3135846b5375f",
-        "58e9df56f4e3135846b5374f"
+        "58edd4874bf01c32364084ab",
+        "58edd4874bf01c32364084b7"
       ],
       "das": {
         "api": [
@@ -170,7 +170,7 @@
         "condition_keys": [
           "dataset.name"
         ],
-        "expire": 1491722370,
+        "expire": 1491981747,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -190,11 +190,11 @@
           "dbs3",
           "phedex"
         ],
-        "ts": 1491722070.9847269
+        "ts": 1491981448.1947
       },
       "das_id": [
-        "58e9df56f4e3135846b5373c",
-        "58e9df56f4e3135846b5373f"
+        "58edd4874bf01c3236408499",
+        "58edd4874bf01c3236408496"
       ],
       "file": [
         {
@@ -227,5 +227,5 @@
   },
   "nresults": 4,
   "status": "ok",
-  "timestamp": 1491722071.45
+  "timestamp": 1491981448.7
 }

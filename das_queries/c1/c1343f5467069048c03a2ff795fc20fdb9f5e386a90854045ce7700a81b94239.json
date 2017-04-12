@@ -7,14 +7,14 @@
   "ctime": 0.0169219970703,
   "data": [
     {
-      "_id": "58ed2badf4e31302a82c3c4c",
+      "_id": "58edd3dbf4e31302a84964fc",
       "cache_id": [],
       "das": {
         "api": [],
         "condition_keys": [
           "file.name"
         ],
-        "expire": 1491938241.3761201,
+        "expire": 1491981295.981415,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 2,
@@ -28,12 +28,12 @@
         "system": [
           "das"
         ],
-        "ts": 1491938221.3761311
+        "ts": 1491981275.981426
       },
       "das_id": [
-        "58ed2ba6f4e31302a82c3bd3",
-        "58ed2ba6f4e31302a82c3bd0",
-        "58ed2ba6f4e31302a82c3bcd"
+        "58edd3d5f4e31302a84964b3",
+        "58edd3d5f4e31302a84964b0",
+        "58edd3d5f4e31302a84964ad"
       ],
       "file": [],
       "qhash": "bf763a4a890821d74089c5b576f7de28"
@@ -59,5 +59,5 @@
   },
   "nresults": 1,
   "status": "ok",
-  "timestamp": 1491938223.8800001
+  "timestamp": 1491981278.52
 }

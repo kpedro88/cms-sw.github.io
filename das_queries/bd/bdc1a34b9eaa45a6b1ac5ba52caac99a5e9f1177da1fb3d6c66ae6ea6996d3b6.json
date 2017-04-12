@@ -4,17 +4,17 @@
     "fileReplicas4dataset",
     "files_via_dataset"
   ],
-  "ctime": 0.016517877578700001,
+  "ctime": 0.0201060771942,
   "data": [
     {
-      "_id": "58ed2a65f4e31302a82bb7ee",
+      "_id": "58edd2b64bf01c323640065c",
       "cache_id": [],
       "das": {
         "api": [],
         "condition_keys": [
           "file.name"
         ],
-        "expire": 1491937913.2113931,
+        "expire": 1491981002.300699,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 2,
@@ -28,12 +28,12 @@
         "system": [
           "das"
         ],
-        "ts": 1491937893.211405
+        "ts": 1491980982.30071
       },
       "das_id": [
-        "58ed2a5ef4e31302a82bb555",
-        "58ed2a5ef4e31302a82bb552",
-        "58ed2a5ef4e31302a82bb54f"
+        "58edd2af4bf01c32364005fa",
+        "58edd2af4bf01c32364005f7",
+        "58edd2af4bf01c32364005f4"
       ],
       "file": [],
       "qhash": "26d05d424e0237c3d92fa2bdb1fdc83c"
@@ -59,5 +59,5 @@
   },
   "nresults": 1,
   "status": "ok",
-  "timestamp": 1491937895.79
+  "timestamp": 1491980985.0999999
 }

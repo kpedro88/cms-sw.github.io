@@ -4,10 +4,10 @@
     "site4dataset",
     "site4dataset"
   ],
-  "ctime": 0.017392158508300001,
+  "ctime": 0.018628120422399998,
   "data": [
     {
-      "_id": "58ed2cb8f4e31302a82c4ab6",
+      "_id": "58edd4e24bf01c323640881f",
       "cache_id": [],
       "das": {
         "api": [],
@@ -16,7 +16,7 @@
           "site.se",
           "node.name"
         ],
-        "expire": 1491938508.8068621,
+        "expire": 1491981558.4730959,
         "instance": "prod/global",
         "primary_key": "site.name",
         "record": 2,
@@ -30,12 +30,12 @@
         "system": [
           "das"
         ],
-        "ts": 1491938488.806881
+        "ts": 1491981538.473104
       },
       "das_id": [
-        "58ed2cb1f4e31302a82c4a52",
-        "58ed2cb1f4e31302a82c4a4f",
-        "58ed2cb1f4e31302a82c4a4c"
+        "58edd4db4bf01c32364087ae",
+        "58edd4db4bf01c32364087ab",
+        "58edd4db4bf01c32364087a8"
       ],
       "qhash": "297d7f4e0c9b9d2cd68280b1f36462d3",
       "site": []
@@ -61,5 +61,5 @@
   },
   "nresults": 1,
   "status": "ok",
-  "timestamp": 1491938490.74
+  "timestamp": 1491981540.6500001
 }
