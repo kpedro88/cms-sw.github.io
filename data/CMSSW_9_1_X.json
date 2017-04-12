@@ -4176,6 +4176,12 @@
                     "details": {}
                 }, 
                 {
+                    "arch": "slc7_aarch64_gcc530", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc530/www/tue/9.1-tue-23/CMSSW_9_1_X_2017-04-11-2300/addOnTests.log", 
+                    "details": {}
+                }, 
+                {
                     "arch": "slc7_aarch64_gcc700", 
                     "passed": false, 
                     "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/tue/9.1-tue-23/CMSSW_9_1_X_2017-04-11-2300/addOnTests.log", 

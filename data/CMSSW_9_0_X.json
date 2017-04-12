@@ -5347,18 +5347,20 @@
                     }
                 }, 
                 {
+                    "arch": "slc7_amd64_gcc530", 
+                    "passed": "failed", 
+                    "file": "/data/sdt/buildlogs/slc7_amd64_gcc530/www/tue/9.0-tue-23/CMSSW_9_0_X_2017-04-11-2300/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "1"
+                    }
+                }, 
+                {
                     "arch": "slc7_amd64_gcc630", 
                     "passed": "passed", 
                     "file": "/data/sdt/buildlogs/slc7_amd64_gcc630/www/tue/9.0-tue-23/CMSSW_9_0_X_2017-04-11-2300/unitTests-summary.log", 
                     "details": {
                         "num_fails": "0"
                     }
-                }, 
-                {
-                    "arch": "slc7_amd64_gcc530", 
-                    "passed": "unknown", 
-                    "file": "['/data/sdt/buildlogs/slc7_amd64_gcc530/www/tue/9.0-tue-23/CMSSW_9_0_X_2017-04-11-2300/new/logAnalysis.pkl']", 
-                    "details": {}
                 }
             ], 
             "igprof": "found", 
