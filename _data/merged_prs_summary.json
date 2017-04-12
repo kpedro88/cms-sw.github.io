@@ -4758,7 +4758,17 @@
                 "release_name": "CMSSW_8_0_X", 
                 "tests_archs": [], 
                 "RVExceptions": null, 
-                "merged_prs": [], 
+                "merged_prs": [
+                    {
+                        "hash": "9f6b5184efd2520e58f85d2d04cff21293a76d42", 
+                        "title": "L1TGlobalProducer: fix prescale index counting", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/17497", 
+                        "number": "17497", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "rekovic"
+                    }
+                ], 
                 "fwlite": []
             }
         ]
@@ -8452,7 +8462,17 @@
                 "release_name": "CMSSW_8_0_X", 
                 "tests_archs": [], 
                 "RVExceptions": null, 
-                "merged_prs": [], 
+                "merged_prs": [
+                    {
+                        "hash": "9f6b5184efd2520e58f85d2d04cff21293a76d42", 
+                        "title": "L1TGlobalProducer: fix prescale index counting", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/17497", 
+                        "number": "17497", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "rekovic"
+                    }
+                ], 
                 "hlt_tests": "inprogress"
             }
         ]
@@ -25043,7 +25063,14 @@
                     "slc6_amd64_gcc530": "IB/CMSSW_9_0_X_2017-04-09-0000/slc6_amd64_gcc530", 
                     "slc7_amd64_gcc530": "IB/CMSSW_9_0_X_2017-04-09-0000/slc7_amd64_gcc530"
                 }, 
-                "addons": [], 
+                "addons": [
+                    {
+                        "arch": "slc7_amd64_gcc630", 
+                        "passed": true, 
+                        "file": "/data/sdt/buildlogs/slc7_amd64_gcc630/www/wed/9.0-wed-11/CMSSW_9_0_X_2017-04-12-1100/addOnTests.log", 
+                        "details": {}
+                    }
+                ], 
                 "comp_baseline_state": "ok", 
                 "builds": [
                     {
@@ -25086,7 +25113,7 @@
                         "passed": true, 
                         "file": "/data/sdt/buildlogs/slc7_amd64_gcc530/www/wed/9.0-wed-11/CMSSW_9_0_X_2017-04-12-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 86, 
+                            "num_passed": 204, 
                             "num_failed": 0
                         }
                     }, 
@@ -25096,7 +25123,7 @@
                         "passed": true, 
                         "file": "/data/sdt/buildlogs/slc7_amd64_gcc630/www/wed/9.0-wed-11/CMSSW_9_0_X_2017-04-12-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 99, 
+                            "num_passed": 214, 
                             "num_failed": 0
                         }
                     }
@@ -34298,7 +34325,14 @@
                     "slc6_amd64_gcc630": "IB/CMSSW_9_1_X_2017-04-12-1100/slc6_amd64_gcc630", 
                     "slc7_aarch64_gcc700": "ERR/CMSSW_9_1_X_2017-04-12-1100/slc7_aarch64_gcc700"
                 }, 
-                "addons": [], 
+                "addons": [
+                    {
+                        "arch": "slc7_aarch64_gcc700", 
+                        "passed": false, 
+                        "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/wed/9.1-wed-11/CMSSW_9_1_X_2017-04-12-1100/addOnTests.log", 
+                        "details": {}
+                    }
+                ], 
                 "comp_baseline_state": "ok", 
                 "builds": [
                     {
@@ -34344,7 +34378,18 @@
                 "valgrind": "inprogress", 
                 "material_budget": "inprogress", 
                 "dqm_tests": "inprogress", 
-                "relvals": [], 
+                "relvals": [
+                    {
+                        "done": false, 
+                        "arch": "slc7_aarch64_gcc700", 
+                        "passed": false, 
+                        "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/wed/9.1-wed-11/CMSSW_9_1_X_2017-04-12-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                        "details": {
+                            "num_passed": 198, 
+                            "num_failed": 275
+                        }
+                    }
+                ], 
                 "static_checks": "inprogress", 
                 "utests": [
                     {

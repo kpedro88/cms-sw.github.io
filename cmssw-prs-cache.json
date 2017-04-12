@@ -26200,6 +26200,13 @@
     "title": "L1TGlobalProducer: fix prescale index counting", 
     "user_ref": "L1TGlobalProducer_fix_prescale_index"
   }, 
+  "17497": {
+    "author": "rekovic", 
+    "branch": "CMSSW_8_0_X", 
+    "hash": "9f6b5184efd2520e58f85d2d04cff21293a76d42", 
+    "title": "L1TGlobalProducer: fix prescale index counting", 
+    "user_ref": "L1TGlobalProducer_fix_prescale_index"
+  }, 
   "17498": {
     "author": "thomreis", 
     "branch": "CMSSW_9_0_X", 

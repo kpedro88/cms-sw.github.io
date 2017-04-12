@@ -4407,7 +4407,14 @@
                 "slc6_amd64_gcc630": "IB/CMSSW_9_1_X_2017-04-12-1100/slc6_amd64_gcc630", 
                 "slc7_aarch64_gcc700": "ERR/CMSSW_9_1_X_2017-04-12-1100/slc7_aarch64_gcc700"
             }, 
-            "addons": [], 
+            "addons": [
+                {
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/wed/9.1-wed-11/CMSSW_9_1_X_2017-04-12-1100/addOnTests.log", 
+                    "details": {}
+                }
+            ], 
             "comp_baseline_state": "ok", 
             "builds": [
                 {
@@ -4453,7 +4460,18 @@
             "valgrind": "inprogress", 
             "material_budget": "inprogress", 
             "dqm_tests": "inprogress", 
-            "relvals": [], 
+            "relvals": [
+                {
+                    "done": false, 
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/wed/9.1-wed-11/CMSSW_9_1_X_2017-04-12-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 198, 
+                        "num_failed": 275
+                    }
+                }
+            ], 
             "static_checks": "inprogress", 
             "utests": [
                 {
